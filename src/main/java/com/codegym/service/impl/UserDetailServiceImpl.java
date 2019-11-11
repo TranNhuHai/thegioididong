@@ -1,4 +1,6 @@
 package com.codegym.service.impl;
 
-public class UserDetailServiceImpl {
+import com.codegym.service.UserService;
+
+public class UserDetailServiceImpl implements UserService {
 }
